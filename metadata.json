@@ -1,0 +1,8 @@
+
+{
+  "name": "AuraGenie",
+  "description": "A comprehensive wellness and productivity platform designed to support students and young professionals. It features a daily mood, health, and goal tracker, an AI success coach, simulated emotion recognition via video, and a supportive community dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
